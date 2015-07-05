@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconImage</key>
+		<string>Icon_Popular</string>
+		<key>title</key>
+		<string>最近流行</string>
+		<key>detailTitle</key>
+		<string>本周收藏人数最多的菜谱TOP榜</string>
+		<key>bigImage</key>
+		<string>pic_top</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>Icon_Popular</string>
+		<key>title</key>
+		<string>最新菜谱</string>
+		<key>detailTitle</key>
+		<string>厨友们最新作品分享给大家</string>
+		<key>bigImage</key>
+		<string>pic_fresh</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string></string>
+		<key>title</key>
+		<string>大家都在做</string>
+		<key>detailTitle</key>
+		<string></string>
+		<key>bigImage</key>
+		<string>pic_workcooks</string>
+	</dict>
+</array>
+</plist>

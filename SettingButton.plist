@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>       登陆</string>
+		<key>icon</key>
+		<string>Icon_Mine_Login</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>       注册</string>
+		<key>icon</key>
+		<string>Icon_Mine_Register</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>         我的</string>
+		<key>icon</key>
+		<string>Icon_Mine_PersonalInfo</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>      收藏夹</string>
+		<key>icon</key>
+		<string>Icon_Mine_Favorites</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>     清除缓存</string>
+		<key>icon</key>
+		<string>Icon_Mine_ClearCache</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>     关于我们</string>
+		<key>icon</key>
+		<string>Icon_Mine_Aboutus</string>
+	</dict>
+</array>
+</plist>

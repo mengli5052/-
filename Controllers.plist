@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>首页</string>
+		<key>vcName</key>
+		<string>MainViewController</string>
+		<key>imageName</key>
+		<string>Tabbar_Recommend</string>
+		<key>selectImageName</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>菜谱</string>
+		<key>vcName</key>
+		<string>MenuViewController</string>
+		<key>imageName</key>
+		<string>Tabbar_Recipes</string>
+		<key>selectImageName</key>
+		<string></string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>厨友汇</string>
+		<key>vcName</key>
+		<string>ShareCookingSkillsViewController</string>
+		<key>imageName</key>
+		<string>Tabbar_Community</string>
+		<key>selectImageName</key>
+		<string></string>
+	</dict>
+</array>
+</plist>

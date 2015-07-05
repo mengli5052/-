@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconImage</key>
+		<string>Icon_Time_Morning</string>
+		<key>timeLabel</key>
+		<string>营养早餐</string>
+		<key>contentLabel</key>
+		<string>每天早上活力满分</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>Icon_Time_Nooning</string>
+		<key>timeLabel</key>
+		<string>能量午餐</string>
+		<key>contentLabel</key>
+		<string>补充能量正当时</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>Icon_Time_Evening</string>
+		<key>timeLabel</key>
+		<string>健康晚餐</string>
+		<key>contentLabel</key>
+		<string>适量搭配健康美味</string>
+	</dict>
+</array>
+</plist>
